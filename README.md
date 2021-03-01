@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 🔭 I am Mateo Marin, Web Designer based in BERLIN
+
 🌱 I’m currently learning FULLSTACK WEB DEVELOPMENT
+
 👯 I’m open to collaborate or work in interesting PROJECTS
+
 📫 How to reach me: https://www.linkedin.com/in/mateo-m-a9a730163/
+
 ⚡ Fun fact: I can code while listening to HIP HOP 
 
 
