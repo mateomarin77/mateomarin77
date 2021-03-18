@@ -8,7 +8,6 @@
 
 📫 How to reach me: https://www.linkedin.com/in/mateo-m-a9a730163/
 
-⚡ Fun fact: I can code while listening to HIP HOP 
 
 
 <!--
